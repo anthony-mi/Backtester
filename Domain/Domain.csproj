@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+	<RootNamespace>Backtester.Domain</RootNamespace>
+	<AssemblyName>Backtester.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
